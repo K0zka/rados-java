@@ -20,6 +20,7 @@
         <developerConnection>scm:git:https://github.com/ceph/rados-java</developerConnection>
         <connection>scm:git:https://github.com/ceph/rados-java</connection>
     </scm>
+  </scm>
     <developers>
         <developer>
             <id>wido</id>
